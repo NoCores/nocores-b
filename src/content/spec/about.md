@@ -1,7 +1,8 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the demo site for study Astro.
+AT 25/2/26
 
-::github{repo="saicaca/fuwari"}
+::github{repo="nocores/nocores-b"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
