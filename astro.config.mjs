@@ -23,7 +23,7 @@ import netlify from "@astrojs/netlify";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://fuwari.vercel.app/",
+  site: "https://nokernel.top/",
   base: "/",
   trailingSlash: "always",
 
